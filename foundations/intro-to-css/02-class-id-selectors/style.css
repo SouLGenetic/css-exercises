@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+p {
+background-color: rgb(244, 80, 83);
+font: Verdana, DejaVu Sans, sans-serif;
+}
